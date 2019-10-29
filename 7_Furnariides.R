@@ -1,5 +1,5 @@
 #Application of the Regression-Kriging model to unveil the geographic
-#gradient of Furnariidae species richness for South America
+#gradient of Furnariides species richness for South America
 
 
 #1- Data
@@ -11,7 +11,7 @@
 
 #--- 1- Data ---#
 
-#Fabaceae occurrence data
+#Furnariides occurrence data
 fur <- read.table("Furnariidae.txt", h=T)
 
 #Temperature
